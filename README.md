@@ -1,5 +1,5 @@
 # excel-business-analytics-workbook
-Advanced Excel business analytics workbook showcasing formulas, lookups, conditional formatting, pivot tables, and basic reporting.
+Advanced Excel business analytics workbook showcasing formulas, lookups, conditional formatting, pivot tables, macros, VBA, buttons and basic reporting.
 
 # Advanced Excel Business Analytics Workbook
 
@@ -41,6 +41,10 @@ The workbook contains multiple sheets, each focused on specific Excel capabiliti
   - Project evaluation (ACCEPT / REJECT) based on minimum revenue and profit requirements.
   - Bonus calculations for employees exceeding revenue targets.
 
+- **Updating data, VBA, Macros and Buttons**
+  -Buttons with assigned macros
+  -VBA for updating data column by column
+
 ## Example Sheets
 
 Some representative sheets in the workbook:[file:37]
@@ -57,7 +61,7 @@ Some representative sheets in the workbook:[file:37]
 
 ```text
 excel-business-analytics-workbook/
-├─
+├─ Advanced_Excel_Business_Analytics.xlsm   # Updated Excel Workbook with macros and VBA.
 ├─ advanced_excel_business_analytics.xlsx   # Main Excel workbook
 └─ README.md                                # This file
 ```
