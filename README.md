@@ -57,6 +57,7 @@ Some representative sheets in the workbook:[file:37]
 
 ```text
 excel-business-analytics-workbook/
+├─
 ├─ advanced_excel_business_analytics.xlsx   # Main Excel workbook
 └─ README.md                                # This file
 ```
